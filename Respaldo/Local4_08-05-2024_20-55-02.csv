@@ -1,0 +1,11 @@
+IdTransaccion,Fecha,IdCategoria,IdProducto,Producto,Cantidad,PrecioUnitario,TotalVenta
+3,6/15/2024,1,1,Smart TV 8K,1,2000,2000
+3,6/16/2024,2,2,Secadora de ropa de gas,3,900,2700
+3,6/17/2024,3,3,Congelador horizontal,2,600,1200
+3,6/18/2024,4,4,Horno eléctrico,1,500,500
+3,6/19/2024,5,5,Robot limpiador avanzado,4,350,1400
+1,6/20/2024,1,1,Proyector 4K HDR,2,1500,3000
+1,6/21/2024,2,2,Lavavajillas empotrable,1,1200,1200
+1,6/22/2024,3,3,Nevera de bar,3,400,1200
+1,6/23/2024,4,4,Horno de convección,2,800,1600
+1,6/24/2024,5,5,Aspiradora industrial,1,600,600

@@ -1,0 +1,11 @@
+IdTransaccion,Fecha,IdCategoria,IdProducto,Producto,Cantidad,PrecioUnitario,TotalVenta
+5,5/26/2024,1,1,Smart TV 4K,1,1100,1100
+5,5/27/2024,2,2,Secadora de ropa,2,800,1600
+5,5/28/2024,3,3,Congelador vertical,4,600,2400
+5,5/29/2024,4,4,Horno microondas,1,400,400
+5,5/30/2024,5,5,Aspiradora robotizada,3,300,900
+6,5/31/2024,1,1,Proyector HD,1,1200,1200
+6,6/1/2024,2,2,Lavavajillas compacto,2,900,1800
+6,6/2/2024,3,3,Nevera portátil,1,500,500
+6,6/3/2024,4,4,Horno tostador,3,350,1050
+6,6/4/2024,5,5,Barredora eléctrica,2,250,500
